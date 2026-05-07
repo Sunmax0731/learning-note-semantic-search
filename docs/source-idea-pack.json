@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\VSCodeExtension\\created_idea_007_learning-note-semantic-search",
+  "zip": "D:\\AI\\VSCodeExtension\\created_idea_007_learning-note-semantic-search\\idea_007_learning-note-semantic-search.zip",
+  "rank": 37,
+  "domain": "VSCodeExtension",
+  "ideaNo": 7,
+  "title": "学習ノート・セマンティック検索",
+  "overview": "コード横メモ、意味検索、ファイル命名ルールを扱う。入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "problem": "学びや命名規則がプロジェクト知識として残りにくい。",
+  "differentiation": "検索結果に自分の学習メモやルールも含める。"
+}

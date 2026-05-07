@@ -1,0 +1,24 @@
+{
+  "name": "learning-note-semantic-search",
+  "displayName": "学習ノート・セマンティック検索",
+  "version": "0.1.0",
+  "publisher": "sunmax0731",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:learning-note-semantic-search.open"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "learning-note-semantic-search.open",
+        "title": "学習ノート・セマンティック検索"
+      }
+    ]
+  }
+}
