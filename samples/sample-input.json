@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "learning-note-semantic-search",
+    "title": "学習ノート・セマンティック検索"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "学習ノート・セマンティック検索 正常ケース",
+      "source": "source-ok",
+      "note": "note-ok",
+      "topic": "topic-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "embeddingStatus": "ready"
+    }
+  ]
+}
