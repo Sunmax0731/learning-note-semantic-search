@@ -1,0 +1,11 @@
+{
+  "product": "learning-note-semantic-search",
+  "title": "学習ノート・セマンティック検索",
+  "domain": "VSCodeExtension",
+  "ideaNo": 7,
+  "platformType": "vscode-extension",
+  "expectedPublicTarget": "GitHub Release / VSIX",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
